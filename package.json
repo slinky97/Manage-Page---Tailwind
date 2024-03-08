@@ -1,0 +1,16 @@
+{
+  "name": "manage-page---tailwind",
+  "version": "1.0.0",
+  "description": "Pagina de practica seleccionada de la pagina frontendmentor que se dedica a generar retos para desarrolladores frontend. En este caso usare TailWind en lugar de CSS para practicar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scanTW": "npx tailwindcss -i ./src/CSS/config.css -o ./src/CSS/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
