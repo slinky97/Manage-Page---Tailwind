@@ -17,6 +17,10 @@ module.exports = {
       backgroundImage: {
         "close-menu": "url('../../assets/images/icon-close.svg')",
         "open-menu": "url('../../assets/images/icon-hamburger.svg')",
+        "simplify-desktop":
+          "url('../../assets/images/bg-simplify-section-desktop.svg')",
+        "simplify-mobile":
+          "url('../../assets/images/bg-simplify-section-mobile.svg')",
       },
     },
   },
